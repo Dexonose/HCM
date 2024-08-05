@@ -1,1 +1,22 @@
+Introduction to Python and basic syntax:
 
+Exercise 1: 
+Write a program that calculates and prints the area of a rectangle when given user
+input of length and width. Name the file AreaRectangle.py
+
+Exercise 2:
+Write a program that converts Celsius to Fahrenheit.
+The formula is F = C * 9/5 + 32.
+
+Exercise 3:
+In your work as a Vulnerability analyst, you might need to automate the process of
+reading log files and outputting them into a more readable format.
+In this exercise, you are given the Log file output of
+2024-06-01 10:23:45 198.147.1.2 192.168.1.10 TCP 1500
+Which is in the format of
+<date> <time> <source_ip> <destination_ip> <protocol> <size>
+Write a script (Log_file.py) that prompts the user for the log file output and then
+spits out the result in the following format:
+“On <date> at <time>, the IP address <source_ip> sent a request to the destination
+<destination_ip>. A packet of the size <size> was sent over the <protocol>
+protocol.”
