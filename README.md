@@ -1,6 +1,11 @@
 # HCM
 Proper writeups of problem sets + Code snippets of solutions
 
+ - Lesson 1: Intro to Python
+ - Lesson 2: Control Structures in Python
+ - Lesson 3: Functions, Modules and Objects
+ - Lesson 4: File Handling 
+
 (っ◕‿◕)っ Python code snippets
 
 I have ignored certain exercises which I found did not need a whole writeup (for example - create an array of numbers, create a list etc) 
