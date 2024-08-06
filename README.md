@@ -1,4 +1,4 @@
-# Course Module Writeups Here
+# Course Module Writeups
 
 ## Python
  - [Lesson 1](https://github.com/Dexonose/HCM/tree/main/Python/Lesson%201): Intro to Python
