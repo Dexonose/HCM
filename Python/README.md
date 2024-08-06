@@ -1,4 +1,4 @@
-# Random Computer Course
+# Python
 Proper writeups of problem sets + Code snippets of solutions
 
  - Lesson 1: Intro to Python
