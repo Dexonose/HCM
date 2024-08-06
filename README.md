@@ -1,13 +1,13 @@
 # Course Module Writeups Here
 
 ## Python
-Lesson 1: Intro to Python
-Lesson 2: Control Structures in Python
-Lesson 3: Functions, Modules and Objects
-Lesson 4: Data Structures
-Lesson 5: File Handling
-Lesson 6: Revision
-Lesson 7: Intermediate Python
+ - Lesson 1: Intro to Python
+ - Lesson 2: Control Structures in Python
+ - Lesson 3: Functions, Modules and Objects
+ - Lesson 4: Data Structures
+ - Lesson 5: File Handling
+ - Lesson 6: Revision
+ - Lesson 7: Intermediate Python
 
 ## Active Directory
 
