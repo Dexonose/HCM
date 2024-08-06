@@ -28,6 +28,4 @@
 
 Contact me on discord - dexonose
 
-(っ◕‿◕)っ [Code samples](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-I am currently working to bring my code in line with the style guides listed. It has been a while since I used these languages so please dont bully me too much D:
+I am currently working to bring my code in line with the style guides listed.
