@@ -27,4 +27,4 @@ Contact me on discord - dexonose
 
 Stuck on something? Contact me on discord or see more resources here -
 
-![image](https://github.com/user-attachments/assets/945265e6-70de-4194-becf-ad5cf3410ef4)
+(っ◕‿◕)っ [Code samples](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
