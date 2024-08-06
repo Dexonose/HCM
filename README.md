@@ -1,4 +1,4 @@
-# HCM
+# Random Computer Course
 Proper writeups of problem sets + Code snippets of solutions
 
  - Lesson 1: Intro to Python
