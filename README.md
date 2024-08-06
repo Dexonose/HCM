@@ -7,6 +7,8 @@ Proper writeups of problem sets + Code snippets of solutions
  - Lesson 4: Data Structures
  - Lesson 5: File Handling
  - Lesson 6: Revision
+ - Lesson 7: Intermediate Python
+ - Lesson 8: Basic Algorithms
 
 (っ◕‿◕)っ Python code snippets
 
