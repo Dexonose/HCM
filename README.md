@@ -4,7 +4,9 @@ Proper writeups of problem sets + Code snippets of solutions
  - Lesson 1: Intro to Python
  - Lesson 2: Control Structures in Python
  - Lesson 3: Functions, Modules and Objects
- - Lesson 4: File Handling 
+ - Lesson 4: Data Structures
+ - Lesson 5: File Handling
+ - Lesson 6: Revision
 
 (っ◕‿◕)っ Python code snippets
 
