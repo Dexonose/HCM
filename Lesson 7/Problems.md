@@ -1,6 +1,6 @@
 # Intermediate Python
 ## Exercise 1
-Create a script to parse the following data and output the number of logs of each severity. 
+Create a script to parse the data from the file logs.txt and output the number of logs of each severity. 
 
 You are to prepend each line with the following format:
  - Errors: \-
