@@ -1,7 +1,7 @@
 # Course Module Writeups
 
 ## Python
- - [Style Guide for Python](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+ - [Style Guide for Python](https://peps.python.org/pep-0008/)
  - [Lesson 1](https://github.com/Dexonose/HCM/tree/main/Python/Lesson%201): Intro to Python
  - [Lesson 2](https://github.com/Dexonose/HCM/tree/main/Python/Lesson%202): Control Structures in Python
  - [Lesson 3](https://github.com/Dexonose/HCM/tree/main/Python/Lesson%203): Functions, Modules and Objects
