@@ -17,6 +17,8 @@ The data parsed will appear as the following:
 2024-07-17 08:20:03 WARNING: High CPU usage detected
 ```
 
+Once you have processed the data, you are to write a file for each kind of log. (error.log, info.log, warning.log)
+
 ### Example output
 ```diff
 + 2024-07-17 08:00:00 INFO: Starting system service
