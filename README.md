@@ -25,6 +25,4 @@
 
 Contact me on discord - dexonose
 
-Stuck on something? Contact me on discord or see more resources here -
-
 (っ◕‿◕)っ [Code samples](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
